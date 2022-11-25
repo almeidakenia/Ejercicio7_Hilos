@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\bin\Debug\net6.0\Bol1_Ej7b.exe
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\bin\Debug\net6.0\Bol1_Ej7b.deps.json
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\bin\Debug\net6.0\Bol1_Ej7b.runtimeconfig.json
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\bin\Debug\net6.0\Bol1_Ej7b.dll
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\bin\Debug\net6.0\Bol1_Ej7b.pdb
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\obj\Debug\net6.0\Bol1_Ej7b.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\obj\Debug\net6.0\Bol1_Ej7b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\obj\Debug\net6.0\Bol1_Ej7b.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\obj\Debug\net6.0\Bol1_Ej7b.AssemblyInfo.cs
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\obj\Debug\net6.0\Bol1_Ej7b.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\obj\Debug\net6.0\Bol1_Ej7b.dll
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\obj\Debug\net6.0\refint\Bol1_Ej7b.dll
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\obj\Debug\net6.0\Bol1_Ej7b.pdb
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\obj\Debug\net6.0\Bol1_Ej7b.genruntimeconfig.cache
+C:\Users\HP\source\repos\Prog Serv\Bol1_Ej7b\Bol1_Ej7b\obj\Debug\net6.0\ref\Bol1_Ej7b.dll
